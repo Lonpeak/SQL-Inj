@@ -1,2 +1,1 @@
-# SQL-Inj
-SQL注入笔记
+<h1 align="center">SQL-Inj笔记</h1>
